@@ -1,0 +1,16 @@
+{
+    "name": "PUB-SUB-API",
+    "dockerFile": "../Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "github.vscode-github-actions"
+            ],
+            "settings": {
+                "terminal.integrated.defaultProfile.linux#": "/bin/bash"
+            }
+        }
+    },
+    "forwardPorts": [5000]
+}
