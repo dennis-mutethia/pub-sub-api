@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns="urn:partner.soap.sforce.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <soapenv:Body>
+        <loginResponse>
+            <result>
+                <metadataServerUrl>
+                    https://amarok--fullcopy.sandbox.my.salesforce.com/services/Soap/m/59.0/00DVG000002O7lZ</metadataServerUrl>
+                <passwordExpired>false</passwordExpired>
+                <sandbox>true</sandbox>
+                <serverUrl>
+                    https://amarok--fullcopy.sandbox.my.salesforce.com/services/Soap/u/59.0/00DVG000002O7lZ</serverUrl>
+                <sessionId>
+                    00DVG000002O7lZ!AQEAQKBGHgrrGeQDSdFR9ab6H5fwfzaQKJ8TYKoVmE_jAldCBckDVhNmqJWsqU7LyGp9CO5v0YOIDXZLleSB70gV3KO_TZ_m</sessionId>
+                <userId>005Ux000001gZtdIAE</userId>
+                <userInfo>
+                    <accessibilityMode>false</accessibilityMode>
+                    <chatterExternal>false</chatterExternal>
+                    <currencySymbol>$</currencySymbol>
+                    <orgAttachmentFileSizeLimit>5242880</orgAttachmentFileSizeLimit>
+                    <orgDefaultCurrencyIsoCode>USD</orgDefaultCurrencyIsoCode>
+                    <orgDefaultCurrencyLocale>en_US</orgDefaultCurrencyLocale>
+                    <orgDisallowHtmlAttachments>false</orgDisallowHtmlAttachments>
+                    <orgHasPersonAccounts>false</orgHasPersonAccounts>
+                    <organizationId>00DVG000002O7lZ2AS</organizationId>
+                    <organizationMultiCurrency>false</organizationMultiCurrency>
+                    <organizationName>AMAROK</organizationName>
+                    <profileId>00e600000015DcqAAE</profileId>
+                    <roleId>00E4X000002E4TXUA0</roleId>
+                    <sessionSecondsValid>7200</sessionSecondsValid>
+                    <userDefaultCurrencyIsoCode xsi:nil="true" />
+                    <userEmail>dataintegrations@amarok.com</userEmail>
+                    <userFullName>Data Integrations</userFullName>
+                    <userId>005Ux000001gZtdIAE</userId>
+                    <userLanguage>en_US</userLanguage>
+                    <userLocale>en_US</userLocale>
+                    <userName>dataintegrations@amarok.com.fullcopy</userName>
+                    <userTimeZone>America/New_York</userTimeZone>
+                    <userType>Standard</userType>
+                    <userUiSkin>Theme3</userUiSkin>
+                </userInfo>
+            </result>
+        </loginResponse>
+    </soapenv:Body>
+</soapenv:Envelope>
